@@ -14,5 +14,5 @@ function cardSetup()
 	print("New card setup")
 	print("Insert card and enter name:")
 	name = io.read()
-	wr.write(name,0..","..name)
+	wr.write(name,0)
 end
