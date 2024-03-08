@@ -1,5 +1,5 @@
 local io = require("io")
-local key = require("component").keyboard
+local key = require("keyboard")
 local wr = require("component").os_cardwriter
 local run = true
 print("Server Started!")
@@ -14,5 +14,5 @@ function cardSetup()
 	print("New card setup")
 	print("Insert card and enter name:")
 	name = io.read()
-	wr.write(name,0..","..name)
+	wr.write(name,0)
 end
