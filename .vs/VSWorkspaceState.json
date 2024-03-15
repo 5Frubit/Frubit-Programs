@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\casino"
   ],
-  "SelectedNode": "\\C:\\Users\\Tim\\Source\\Repos\\Frubit-Programs",
+  "SelectedNode": "\\casino\\casino_server.lua",
   "PreviewInSolutionExplorer": false
 }
