@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\casino"
+    "\\areaMiningBot",
+    "\\mineingBot"
   ],
-  "SelectedNode": "\\casino\\casino_server.lua",
+  "SelectedNode": "\\areaMiningBot\\areaMiningBot.lua",
   "PreviewInSolutionExplorer": false
 }
